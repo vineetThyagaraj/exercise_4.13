@@ -17,5 +17,6 @@ public class vowelConsonant {
         } else {
             System.out.println(letter + " is an invalid input");
         }
+        scanner.close();
     }
 }
